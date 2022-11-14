@@ -2,7 +2,7 @@
 Uploading a current project to a new GitHub repo
 
 
-<h1>Task 8 New GitHub Repo</h1>
+<h2>Task 8 New GitHub Repo</h2>
 
 <p>Project 1 Copy Repo</p>
 
