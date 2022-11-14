@@ -1,0 +1,96 @@
+img{
+    width: 350px;
+    height: 250px;
+}
+
+h5{
+    font-size: larger;
+    
+}
+h1{
+    text-align: center;
+}
+
+h6{
+    position: relative;
+    top:-40px;
+
+}
+.birk{
+    width: 250px;
+    height: 250px;
+}
+body{
+    background: rgb(199,70,247);
+background: radial-gradient(circle, rgba(199,70,247,1) 0%, rgba(255,161,161,1) 100%);
+}
+.grid-container {
+    display: grid;
+    column-gap: 50px;
+  }
+
+html{
+    scroll-behavior: smooth;
+}
+.relative-wrapper{
+    width: 350px;
+    height: 350px;
+    background: white;
+    padding: 20px;
+    font-family: sans-serif;
+    margin-left: 80px;
+    margin-right: 0;
+    padding-bottom: 0px;
+    margin-top: 20px;
+    padding-left: 20px;
+    display:  inline-grid;
+
+}
+
+.nav {
+  background-color: rgb(198, 151, 226);
+  overflow: hidden;
+}
+.nav a {
+  float: left;
+  color: #fff3f3;
+  text-align: center;
+  padding: 16px 18px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+/* referenced w3schools */
+.nav a:hover {
+  background-color: rgb(255, 255, 255);
+  color: black;
+  border-bottom: 3px solid black;
+}
+
+
+.nav a.home {
+  background-color: #ff08b9;
+  color: white;
+}
+.staud{
+  width: 200px;
+  height: 250px;
+
+}
+.navright {
+  float: right;
+}
+.nav a.home:hover {
+  background-color: #ffffff;
+  color: black;
+  border-bottom: 3px solid black;
+}
+  .daybreak{
+    width: 250px;
+    height: 250px;
+  }
+.ugg{
+    width: 350px;
+    height: 250px;
+
+}
